@@ -22,6 +22,7 @@ Space Complexity: O(1)
 ### Overwritten Input Approach
 
 ![alt text](<Screenshot by Dropbox Capture-1.png>)
+
 Overwritten Input Complexity:
 
 Time Complexity: O(n)
